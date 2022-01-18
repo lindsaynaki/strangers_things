@@ -1,0 +1,9 @@
+export { default as Posts } from './Posts';
+export { default as Login } from  './Login'; 
+export { default as Register } from './Register';
+export { default as Home } from './Home';
+export { default as AddForm } from './AddForm';
+export { default as EditForm } from './EditForm';
+export { default as MessageForm } from './MessageForm';
+export { default as Search } from './Search';
+export { default as Profile } from './Profile';
